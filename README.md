@@ -44,9 +44,9 @@ Realmente disfruto usando python.
   <a href= "https://www.linkedin.com/in/jazminpineda/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <!--<a href="https://github.com/jazminpineda/CV/blob/master/CV.pdf">
+  <a href="https://github.com/JazminPineda/CV/blob/main/Jazmin%20Pineda.pdf">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-  </a> -->
+  </a>
   <a href="mailto:jppinedac940@hotmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
