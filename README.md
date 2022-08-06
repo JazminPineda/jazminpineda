@@ -18,14 +18,12 @@ Sé que la tecnología me permite automatizar procesos y mejorarlos. Me gusta tr
 
 Realmente disfruto usando python.
 
-## 📫 Contact Me on Social Media
-✉️ [Email](jppinedac940@hotmail.com) | 💬 
 
 
-# <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jazminpineda" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/jazminpineda?trk=profile-badge">Jazmin Pineda</a></div>
 
 
-Here are some ideas to get you started:
+
+### Here are some ideas to get you started:
 
 - 🔭 I´m looking for work Insight Generation.
 - 🌱 I’m currently learning Data Analytics.
@@ -36,6 +34,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jaz
 - ⚡ Fun fact: I am accountant
 
+<!-- ## 📫 Contact Me on Social Media -->
+**_📫 Contact Me on_**
+<!-- Social Section -->
+
+  <a href= "https://github.com/jazminpineda/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/jazminpineda/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <!--<a href="https://github.com/jazminpineda/CV/blob/master/CV.pdf">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
+  </a> -->
+  <a href="mailto:jppinedac940@hotmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+  </a>
 
 
 | <a href="https://github.com/jazminpineda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jazminpineda&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jazminpineda/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazminpineda&layout=compact&theme=gotham&hide_border=true" /></a> |
