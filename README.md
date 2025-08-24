@@ -32,7 +32,7 @@ Realmente disfruto usando python.
 - 💬 Ask me about accounting and tax processes.
 - 📫 How to reach me: linkedin
 - 😄 Pronouns: Jaz
-- ⚡ Fun fact: I am accountant
+- ⚡ Fun fact: I am Business Intelligence & Data Analytics, accountant.
 
 <!-- ## 📫 Contact Me on Social Media -->
 
